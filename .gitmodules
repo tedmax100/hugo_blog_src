@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:tedmax100/hugo-site.git
+[submodule "themes/relearn"]
+	path = themes/relearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git
